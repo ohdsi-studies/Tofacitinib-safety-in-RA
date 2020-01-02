@@ -20,7 +20,7 @@ On May 2-3, 2018, a group of OHDSI community investigators converged on Columbia
 This repository serves to document the iterative improvements made to initial study designed as well as the publication and dissemination of results for the broader scientific community. 
 
 **Description:**
-This study aims to compare the safety of tofacitinib with adalimumab and etanercept in patients with rheumatoid arthritis (RA). We will replicate the design and population inclusion criteria of an ongoing phase 3b/4 randomized clinical trial (NCT02092467), with the aim of predicting the RCT results using real-world evidence. In this study, we will analyze data from observational databases across the OHDSI network using the OHDSI CohortMethod package framework to perform this comparative study.  
+This study aims to compare the safety of tofacitinib with adalimumab and etanercept in patients with rheumatoid arthritis (RA). We will replicate the design and population inclusion criteria of an ongoing phase 3b/4 randomized clinical trial (NCT02092467), with the aim of predicting the RCT results using real-world evidence. In this study, we will analyze data from observational databases across the OHDSI network using the OHDSI CohortMethod package framework to perform this comparative study. There are two study packages (RCT recreation and RWD analysis). While it is desired for each site to run both packages, there are known restrictions around cohort definitions that may make it prohibitive to contribute results to both analyses.
 
 License
 =======
