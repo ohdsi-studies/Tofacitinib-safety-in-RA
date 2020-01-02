@@ -1,7 +1,7 @@
-[Tofacitinib Safety in Rheumatoid Arthritis]
+[Predicting randomized clinical trial results with real-world evidence: A case study in the comparative safety of tofacitinib, adalimumab and etanercept in patients with rheumatoid arthritis]
 =============
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Design Finalized">
+<img src="https://img.shields.io/badge/Study%20Status-Design%20Finalized-brightgreen.svg" alt="Study Status: Design Finalized">
 
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
