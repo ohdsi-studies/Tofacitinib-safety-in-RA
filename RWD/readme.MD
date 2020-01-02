@@ -1,4 +1,4 @@
-Tofacitinib vs Etanercept and Adalimumab - RWD Analysis (BridgetTofa1108)
+Tofacitinib vs Etanercept and Adalimumab - RWD Analysis (Project Name: BridgetTofa1108)
 ==============================
 Package designed by Dr. Bridget Wang (Columbia University) using Public ATLAS v.2.7.4. (http://atlas-demo.ohdsi.org/). 
 
@@ -127,4 +127,4 @@ BridgetTofa1108 was developed in ATLAS and R Studio.
 
 ### Development status
 
-Tested by @kmkostka623. Known issues with JSON files have been debugged.
+Tested by [Kristin Kostka](https://github.com/ohdsi-studies/Tofacitinib-safety-in-RA/commits?author=kmkostka). Known issues with JSON files have been debugged.
