@@ -10,9 +10,9 @@
 - Study lead forums tag: **[Bridget Wang](https://forums.ohdsi.org/u/bridgetwang)**
 - Study start date: **May 2, 2018**
 - Study end date: **January 31, 2020**
-- Protocol: **-**
-- Publications: **-**
-- Results explorer: **-**
+- Protocol: **[Initial Protocol](https://github.com/ohdsi-studies/Tofacitinib-safety-in-RA/blob/master/OHDSI%20F2F%20Protocol%20V1.1.docx)**  (Note: needs to will be amended once design issues are resolved.)
+- Publications: **TBD**
+- Results explorer: **In progress**
 
 **About This Study:**
 On May 2-3, 2018, a group of OHDSI community investigators converged on Columbia University to design and execute a Population-Level Estimation study in 2 days. The result was a diverse group of experts ranging from clinicians, biostatisticians, epidemilogists, data analysts, software engineers and other observational health data enthusiasts. A presentation on the innovative community-led process to rapidly iterate on a study question is explored more in this [2018 OHDSI US Symposium Lighting Talk](https://www.youtube.com/watch?v=ybKFFAP5Gl0) and [Slides](https://www.ohdsi.org/wp-content/uploads/2018/10/OHDSI-LightningTalk2018-FeeneyKostka.pdf). The community-driven process for choosing a question is detailed in the [OHDSI Forums](https://forums.ohdsi.org/t/ohdsi-face-to-face-at-columbia-may2-3-community-study-a-thon/4008). In just two days, the OHDSI community generated a fully specified protocol and executed a study package on multiple data sets.
