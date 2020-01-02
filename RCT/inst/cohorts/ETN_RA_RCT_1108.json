@@ -2220,7 +2220,7 @@
     }
   ],
   "EndStrategy": {"CustomEra": {
-    "DrugCodesetId": 28,
+    "DrugCodesetId": 29,
     "GapDays": 90,
     "Offset": 90
   }},
@@ -3071,7 +3071,7 @@
         "Count": null
       },
       "DrugSourceConcept": null,
-      "CodesetId": 28,
+      "CodesetId": 29,
       "DrugTypeExclude": false,
       "Quantity": null,
       "DrugType": null,
