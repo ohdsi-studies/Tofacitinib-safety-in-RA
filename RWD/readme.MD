@@ -127,4 +127,4 @@ BridgetTofa1108 was developed in ATLAS and R Studio.
 
 ### Development status
 
-Tested by [Kristin Kostka](https://github.com/ohdsi-studies/Tofacitinib-safety-in-RA/commits?author=kmkostka). Known issues with JSON files have been debugged.
+Tested by [Kristin Kostka](https://github.com/kmkostka). Known issues with JSON files have been debugged.
