@@ -1,0 +1,113 @@
+"database_id","exposure_id","target_id","comparator_id","outcome_id","analysis_id","sequence_number","description","subjects"
+"Open Claims",1772597,1772597,1772598,1772595,1,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772595,1,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772595,1,3,"Have at least 30 days at risk",10454
+"Open Claims",1772597,1772597,1772598,1772595,1,4,"Matched on propensity score",8215
+"Open Claims",1772598,1772597,1772598,1772595,1,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772595,1,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772595,1,3,"Have at least 30 days at risk",20386
+"Open Claims",1772598,1772597,1772598,1772595,1,4,"Matched on propensity score",8215
+"Open Claims",1772597,1772597,1772598,1772596,1,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772596,1,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772596,1,3,"Have at least 30 days at risk",10454
+"Open Claims",1772597,1772597,1772598,1772596,1,4,"Matched on propensity score",8215
+"Open Claims",1772598,1772597,1772598,1772596,1,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772596,1,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772596,1,3,"Have at least 30 days at risk",20386
+"Open Claims",1772598,1772597,1772598,1772596,1,4,"Matched on propensity score",8215
+"Open Claims",1772597,1772597,1772599,1772595,1,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772595,1,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772595,1,3,"Have at least 30 days at risk",10688
+"Open Claims",1772597,1772597,1772599,1772595,1,4,"Matched on propensity score",7652
+"Open Claims",1772599,1772597,1772599,1772595,1,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772595,1,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772595,1,3,"Have at least 30 days at risk",17132
+"Open Claims",1772599,1772597,1772599,1772595,1,4,"Matched on propensity score",7652
+"Open Claims",1772597,1772597,1772599,1772596,1,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772596,1,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772596,1,3,"Have at least 30 days at risk",10688
+"Open Claims",1772597,1772597,1772599,1772596,1,4,"Matched on propensity score",7652
+"Open Claims",1772599,1772597,1772599,1772596,1,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772596,1,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772596,1,3,"Have at least 30 days at risk",17132
+"Open Claims",1772599,1772597,1772599,1772596,1,4,"Matched on propensity score",7652
+"Open Claims",1772597,1772597,1772598,1772595,2,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772595,2,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772595,2,3,"Have at least 30 days at risk",10454
+"Open Claims",1772597,1772597,1772598,1772595,2,4,"Matched on propensity score",8214
+"Open Claims",1772598,1772597,1772598,1772595,2,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772595,2,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772595,2,3,"Have at least 30 days at risk",20386
+"Open Claims",1772598,1772597,1772598,1772595,2,4,"Matched on propensity score",8214
+"Open Claims",1772597,1772597,1772598,1772596,2,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772596,2,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772596,2,3,"Have at least 30 days at risk",10454
+"Open Claims",1772597,1772597,1772598,1772596,2,4,"Matched on propensity score",8214
+"Open Claims",1772598,1772597,1772598,1772596,2,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772596,2,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772596,2,3,"Have at least 30 days at risk",20386
+"Open Claims",1772598,1772597,1772598,1772596,2,4,"Matched on propensity score",8214
+"Open Claims",1772597,1772597,1772599,1772595,2,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772595,2,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772595,2,3,"Have at least 30 days at risk",10688
+"Open Claims",1772597,1772597,1772599,1772595,2,4,"Matched on propensity score",7658
+"Open Claims",1772599,1772597,1772599,1772595,2,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772595,2,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772595,2,3,"Have at least 30 days at risk",17132
+"Open Claims",1772599,1772597,1772599,1772595,2,4,"Matched on propensity score",7658
+"Open Claims",1772597,1772597,1772599,1772596,2,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772596,2,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772596,2,3,"Have at least 30 days at risk",10688
+"Open Claims",1772597,1772597,1772599,1772596,2,4,"Matched on propensity score",7658
+"Open Claims",1772599,1772597,1772599,1772596,2,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772596,2,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772596,2,3,"Have at least 30 days at risk",17132
+"Open Claims",1772599,1772597,1772599,1772596,2,4,"Matched on propensity score",7658
+"Open Claims",1772597,1772597,1772598,1772595,3,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772595,3,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772595,3,3,"Have at least 30 days at risk",10454
+"Open Claims",1772598,1772597,1772598,1772595,3,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772595,3,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772595,3,3,"Have at least 30 days at risk",20386
+"Open Claims",1772597,1772597,1772598,1772596,3,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772596,3,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772596,3,3,"Have at least 30 days at risk",10454
+"Open Claims",1772598,1772597,1772598,1772596,3,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772596,3,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772596,3,3,"Have at least 30 days at risk",20386
+"Open Claims",1772597,1772597,1772599,1772595,3,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772595,3,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772595,3,3,"Have at least 30 days at risk",10688
+"Open Claims",1772599,1772597,1772599,1772595,3,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772595,3,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772595,3,3,"Have at least 30 days at risk",17132
+"Open Claims",1772597,1772597,1772599,1772596,3,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772596,3,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772596,3,3,"Have at least 30 days at risk",10688
+"Open Claims",1772599,1772597,1772599,1772596,3,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772596,3,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772596,3,3,"Have at least 30 days at risk",17132
+"Open Claims",1772597,1772597,1772598,1772595,4,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772595,4,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772595,4,3,"Have at least 30 days at risk",10454
+"Open Claims",1772598,1772597,1772598,1772595,4,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772595,4,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772595,4,3,"Have at least 30 days at risk",20386
+"Open Claims",1772597,1772597,1772598,1772596,4,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772598,1772596,4,2,"First cohort only & 365 days of obs. prior",10591
+"Open Claims",1772597,1772597,1772598,1772596,4,3,"Have at least 30 days at risk",10454
+"Open Claims",1772598,1772597,1772598,1772596,4,1,"Original cohorts",20900
+"Open Claims",1772598,1772597,1772598,1772596,4,2,"First cohort only & 365 days of obs. prior",20616
+"Open Claims",1772598,1772597,1772598,1772596,4,3,"Have at least 30 days at risk",20386
+"Open Claims",1772597,1772597,1772599,1772595,4,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772595,4,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772595,4,3,"Have at least 30 days at risk",10688
+"Open Claims",1772599,1772597,1772599,1772595,4,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772595,4,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772595,4,3,"Have at least 30 days at risk",17132
+"Open Claims",1772597,1772597,1772599,1772596,4,1,"Original cohorts",11862
+"Open Claims",1772597,1772597,1772599,1772596,4,2,"First cohort only & 365 days of obs. prior",10832
+"Open Claims",1772597,1772597,1772599,1772596,4,3,"Have at least 30 days at risk",10688
+"Open Claims",1772599,1772597,1772599,1772596,4,1,"Original cohorts",17540
+"Open Claims",1772599,1772597,1772599,1772596,4,2,"First cohort only & 365 days of obs. prior",17294
+"Open Claims",1772599,1772597,1772599,1772596,4,3,"Have at least 30 days at risk",17132
