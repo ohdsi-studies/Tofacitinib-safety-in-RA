@@ -1,5 +1,6 @@
-BridgetTofaRCT1108
+Tofacitinib vs Etanercept and Adalimumab - RCT Analysis (Project Name: BridgetTofaRCT1108)
 ==============================
+Package designed by Dr. Bridget Wang (Columbia University) using Public ATLAS v.2.7.4. (http://atlas-demo.ohdsi.org/). 
 
 
 Requirements
@@ -126,4 +127,4 @@ BridgetTofaRCT1108 was developed in ATLAS and R Studio.
 
 ### Development status
 
-Unknown
+Tested by [Kristin Kostka](https://github.com/kmkostka).
