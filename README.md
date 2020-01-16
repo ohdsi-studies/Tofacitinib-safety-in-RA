@@ -5,7 +5,7 @@
 
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
-- Tags: **F2F, rheumatoid arthritis, drug safety, tofacitinib, etanercept, adalimumab, Xeljanz, Enbrel, Humira, RWD, RWE**
+- Tags: **F2F, Rheumatoid Arthritis, drug safety, tofacitinib, etanercept, adalimumab, Xeljanz, Enbrel, Humira**
 - Study lead: **Bridget Wang**
 - Study lead forums tag: **[Bridget Wang](https://forums.ohdsi.org/u/bridgetwang)**
 - Study start date: **May 2, 2018**
