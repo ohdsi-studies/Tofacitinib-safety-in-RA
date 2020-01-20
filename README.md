@@ -7,7 +7,7 @@
 - Study type: **Clinical Application**
 - Tags: **F2F, Rheumatoid Arthritis, drug safety, tofacitinib, etanercept, adalimumab, Xeljanz, Enbrel, Humira**
 - Study lead: **Bridget Wang**
-- Study lead forums tag: **[Bridget Wang](https://forums.ohdsi.org/u/bridgetwang)**
+- Study lead forums tag: **[BridgetWang](https://forums.ohdsi.org/u/BridgetWang)**
 - Study start date: **May 2, 2018**
 - Study end date: **Early Spring 2020**
 - Protocol: **[Initial Protocol](https://github.com/ohdsi-studies/Tofacitinib-safety-in-RA/blob/master/OHDSI%20F2F%20Protocol%20V1.1.docx)**  (Note: needs to will be amended once design issues are resolved.)
