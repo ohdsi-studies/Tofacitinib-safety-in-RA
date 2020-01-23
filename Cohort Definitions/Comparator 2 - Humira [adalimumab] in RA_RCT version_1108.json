@@ -1,29 +1,6 @@
 {
   "ConceptSets": [
     {
-      "id": 0,
-      "name": "Tofactinib",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_ID": 42904205,
-              "CONCEPT_NAME": "tofacitinib",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "CONCEPT_CODE": "1357536",
-              "DOMAIN_ID": "Drug",
-              "VOCABULARY_ID": "RxNorm",
-              "CONCEPT_CLASS_ID": "Ingredient"
-            },
-            "includeDescendants": true
-          }
-        ]
-      }
-    },
-    {
       "id": 1,
       "name": "Rheumatoid arthritis",
       "expression": {
@@ -325,16 +302,16 @@
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "PT",
-              "CONCEPT_CODE": "10050329",
               "CONCEPT_ID": 37522316,
               "CONCEPT_NAME": "Coronary angioplasty",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "C",
               "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "MedDRA"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "10050329",
+              "DOMAIN_ID": "Procedure",
+              "VOCABULARY_ID": "MedDRA",
+              "CONCEPT_CLASS_ID": "PT"
             },
             "includeDescendants": true
           },
@@ -1954,16 +1931,16 @@
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "PT",
-              "CONCEPT_CODE": "10029883",
               "CONCEPT_ID": 36416534,
               "CONCEPT_NAME": "Obesity",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "C",
               "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "MedDRA"
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "CONCEPT_CODE": "10029883",
+              "DOMAIN_ID": "Condition",
+              "VOCABULARY_ID": "MedDRA",
+              "CONCEPT_CLASS_ID": "PT"
             },
             "includeDescendants": true
           },
@@ -2030,29 +2007,6 @@
           }
         ]
       }
-    },
-    {
-      "id": 29,
-      "name": "Etanercept",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_ID": 1151789,
-              "CONCEPT_NAME": "Etanercept",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "CONCEPT_CODE": "214555",
-              "DOMAIN_ID": "Drug",
-              "VOCABULARY_ID": "RxNorm",
-              "CONCEPT_CLASS_ID": "Ingredient"
-            },
-            "includeDescendants": true
-          }
-        ]
-      }
     }
   ],
   "PrimaryCriteria": {
@@ -2088,7 +2042,7 @@
             "DemographicCriteriaList": [],
             "Groups": []
           },
-          "CodesetId": 0,
+          "CodesetId": 28,
           "OccurrenceStartDate": {
             "Value": "2013-01-01",
             "Op": "gte"
@@ -2592,7 +2546,6 @@
   ],
   "EndStrategy": {
     "CustomEra": {
-      "DrugCodesetId": 0,
       "GapDays": 90,
       "Offset": 90
     }
