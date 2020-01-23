@@ -1,29 +1,6 @@
 {
   "ConceptSets": [
     {
-      "id": 0,
-      "name": "Tofactinib",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "1357536",
-              "CONCEPT_ID": 42904205,
-              "CONCEPT_NAME": "tofacitinib",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          }
-        ]
-      }
-    },
-    {
       "id": 1,
       "name": "Rheumatoid arthritis",
       "expression": {
@@ -2009,29 +1986,6 @@
       }
     },
     {
-      "id": 28,
-      "name": "Adalimumab",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "327361",
-              "CONCEPT_ID": 1119119,
-              "CONCEPT_NAME": "adalimumab",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          }
-        ]
-      }
-    },
-    {
       "id": 29,
       "name": "Etanercept",
       "expression": {
@@ -2592,7 +2546,6 @@
   ],
   "EndStrategy": {
     "CustomEra": {
-      "DrugCodesetId": 0,
       "GapDays": 90,
       "Offset": 90
     }
