@@ -1,3 +1,0 @@
-"targetPersons","comparatorPersons","targetExposures","comparatorExposures","targetDays","comparatorDays","totalOutcomes","mdrr","se","outcomeId","outcomeName","analysisId","analysisDescription","targetId","targetName","comparatorId","comparatorName"
-8214,8214,8214,8214,8159504,8202940,385,1.33051223554885,0.101929438287525,1772595,"LEGEND AMI",2,"Intent-to-treat",1772597,"TOFA_RA_RCT_1108",1772598,"ADA_RA_RCT_1108"
-8214,8214,8214,8214,8159504,8202940,392,1.32710893569245,0.101015254455221,1772596,"LEGEND Stroke",2,"Intent-to-treat",1772597,"TOFA_RA_RCT_1108",1772598,"ADA_RA_RCT_1108"
