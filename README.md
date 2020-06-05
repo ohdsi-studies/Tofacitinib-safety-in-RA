@@ -9,8 +9,8 @@
 - Study lead: **Bridget Wang**
 - Study lead forums tag: **[BridgetWang](https://forums.ohdsi.org/u/BridgetWang)**
 - Study start date: **May 2, 2018**
-- Study end date: **Early Spring 2020**
-- Protocol: **[Initial Protocol](https://github.com/ohdsi-studies/Tofacitinib-safety-in-RA/blob/master/OHDSI%20F2F%20Protocol%20V1.1.docx)**  (Note: needs to will be amended once design issues are resolved.)
+- Study end date: **June 30, 2020**
+- Protocol: **[Final Protocol](https://github.com/ohdsi-studies/TofacitinibSafetyinRA/blob/master/Overall%20Documentation/OHDSI%20F2F%20protocol%20v2.1.docx)** 
 - Publications: **TBD**
 - Results explorer: **In progress**
 
