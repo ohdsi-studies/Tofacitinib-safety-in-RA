@@ -1,0 +1,259 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1772592,1772593,4305080,Abnormal breathing,outcome
+1772592,1772593,138384,Acquired hypothyroidism,outcome
+1772592,1772593,137951,Acquired keratoderma,outcome
+1772592,1772593,194686,Acquired renal cystic disease,outcome
+1772592,1772593,138825,Actinic keratosis,outcome
+1772592,1772593,257004,Acute exacerbation of chronic obstructive airways disease,outcome
+1772592,1772593,199866,Acute gastritis,outcome
+1772592,1772593,436118,After-cataract with vision obscured,outcome
+1772592,1772593,381295,Age-related cataract,outcome
+1772592,1772593,433753,Alcohol abuse,outcome
+1772592,1772593,435243,Alcohol dependence,outcome
+1772592,1772593,439147,Amnesia,outcome
+1772592,1772593,200528,Ascites,outcome
+1772592,1772593,438409,Attention deficit hyperactivity disorder,outcome
+1772592,1772593,136057,Benign neoplasm of skin of trunk,outcome
+1772592,1772593,198803,Benign prostatic hyperplasia,outcome
+1772592,1772593,443211,Benign prostatic hypertrophy with outflow obstruction,outcome
+1772592,1772593,201072,Benign prostatic hypertrophy without outflow obstruction,outcome
+1772592,1772593,444367,Cholelithiasis without obstruction,outcome
+1772592,1772593,381292,Chronic allergic conjunctivitis,outcome
+1772592,1772593,432738,Chronic fatigue syndrome,outcome
+1772592,1772593,443597,Chronic kidney disease stage 3,outcome
+1772592,1772593,75860,Constipation,outcome
+1772592,1772593,4311591,Cramp in limb,outcome
+1772592,1772593,197610,Cyst of ovary,outcome
+1772592,1772593,433163,Deficiency of macronutrients,outcome
+1772592,1772593,73575,Deformity of toe,outcome
+1772592,1772593,435796,Dehydration,outcome
+1772592,1772593,377910,Deviated nasal septum,outcome
+1772592,1772593,201061,Diaphragmatic hernia,outcome
+1772592,1772593,432730,Difficulty speaking,outcome
+1772592,1772593,74725,Displacement of cervical intervertebral disc without myelopathy,outcome
+1772592,1772593,433316,Dizziness and giddiness,outcome
+1772592,1772593,381877,Dysfunction of eustachian tube,outcome
+1772592,1772593,31317,Dysphagia,outcome
+1772592,1772593,433440,Dysthymia,outcome
+1772592,1772593,137351,Epidermoid cyst of skin,outcome
+1772592,1772593,197381,Epigastric pain,outcome
+1772592,1772593,30753,Esophagitis,outcome
+1772592,1772593,197607,Excessive and frequent menstruation,outcome
+1772592,1772593,72715,Exostosis,outcome
+1772592,1772593,201418,"Flatulence, eructation and gas pain",outcome
+1772592,1772593,196456,Gallstone,outcome
+1772592,1772593,318800,Gastroesophageal reflux disease,outcome
+1772592,1772593,434613,Generalized anxiety disorder,outcome
+1772592,1772593,4168217,Generalized hyperhidrosis,outcome
+1772592,1772593,198400,Hemangioma of skin and subcutaneous tissue,outcome
+1772592,1772593,79864,Hematuria syndrome,outcome
+1772592,1772593,195562,Hemorrhoids,outcome
+1772592,1772593,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+1772592,1772593,433811,Hydronephrosis,outcome
+1772592,1772593,435511,Hypercalcemia,outcome
+1772592,1772593,434610,Hyperkalemia,outcome
+1772592,1772593,133729,Hyperparathyroidism,outcome
+1772592,1772593,4172432,Hyperpigmentation of skin,outcome
+1772592,1772593,141375,Hypertrophic condition of skin,outcome
+1772592,1772593,78474,Hypertrophy of breast,outcome
+1772592,1772593,440129,Hypertrophy of nasal turbinates,outcome
+1772592,1772593,434004,Hypervolemia,outcome
+1772592,1772593,435510,Hypocalcemia,outcome
+1772592,1772593,437833,Hypokalemia,outcome
+1772592,1772593,4098604,Hypomagnesemia,outcome
+1772592,1772593,435515,Hypo-osmolality and or hyponatremia,outcome
+1772592,1772593,436375,Hypovolemia,outcome
+1772592,1772593,375806,Idiopathic peripheral neuropathy,outcome
+1772592,1772593,312950,IgE-mediated allergic asthma,outcome
+1772592,1772593,374375,Impacted cerumen,outcome
+1772592,1772593,4308509,Impaired fasting glycaemia,outcome
+1772592,1772593,76161,Impotence of organic origin,outcome
+1772592,1772593,441417,Incoordination,outcome
+1772592,1772593,40483107,Inflamed seborrheic keratosis,outcome
+1772592,1772593,139099,Ingrowing nail,outcome
+1772592,1772593,436962,Insomnia,outcome
+1772592,1772593,201322,Internal hemorrhoids without complication,outcome
+1772592,1772593,201620,Kidney stone,outcome
+1772592,1772593,198101,Lipoma of skin and subcutaneous tissue,outcome
+1772592,1772593,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+1772592,1772593,4033837,Melanocytic nevus of trunk,outcome
+1772592,1772593,4103703,Melena,outcome
+1772592,1772593,439082,Menopausal syndrome,outcome
+1772592,1772593,436940,Metabolic syndrome X,outcome
+1772592,1772593,72737,Microcalcifications of the breast,outcome
+1772592,1772593,318736,Migraine,outcome
+1772592,1772593,434005,Morbid obesity,outcome
+1772592,1772593,379805,Myopia,outcome
+1772592,1772593,30234,Neck sprain,outcome
+1772592,1772593,376065,Neurological disorder with diabetes type 2,outcome
+1772592,1772593,4209423,Nicotine dependence,outcome
+1772592,1772593,136661,Non-toxic nodular goiter,outcome
+1772592,1772593,437851,Open angle with borderline intraocular pressure,outcome
+1772592,1772593,77139,Open wound of finger without complication,outcome
+1772592,1772593,438120,Opioid dependence,outcome
+1772592,1772593,4211231,Panic disorder without agoraphobia,outcome
+1772592,1772593,321596,Peripheral venous insufficiency,outcome
+1772592,1772593,78162,Peripheral vertigo,outcome
+1772592,1772593,373478,Presbyopia,outcome
+1772592,1772593,4084229,Primary gout,outcome
+1772592,1772593,136184,Pruritus of skin,outcome
+1772592,1772593,261325,Pulmonary emphysema,outcome
+1772592,1772593,432883,"Recurrent major depressive episodes, moderate",outcome
+1772592,1772593,436246,Reduced libido,outcome
+1772592,1772593,443731,Renal disorder due to type 2 diabetes mellitus,outcome
+1772592,1772593,197006,Residual hemorrhoidal skin tags,outcome
+1772592,1772593,73754,Restless legs,outcome
+1772592,1772593,192450,Retention of urine,outcome
+1772592,1772593,136773,Rosacea,outcome
+1772592,1772593,136497,Scar conditions and fibrosis of skin,outcome
+1772592,1772593,141932,Senile hyperkeratosis,outcome
+1772592,1772593,80824,Senile osteoporosis,outcome
+1772592,1772593,4110815,"Sensorineural hearing loss, bilateral",outcome
+1772592,1772593,432284,Single major depressive episode,outcome
+1772592,1772593,313459,Sleep apnea,outcome
+1772592,1772593,4002818,Spasm of back muscles,outcome
+1772592,1772593,81151,Sprain of ankle,outcome
+1772592,1772593,376382,Tension-type headache,outcome
+1772592,1772593,26662,Testicular hypofunction,outcome
+1772592,1772593,377575,Tinnitus,outcome
+1772592,1772593,437264,Tobacco dependence syndrome,outcome
+1772592,1772593,201254,Type 1 diabetes mellitus,outcome
+1772592,1772593,201826,Type 2 diabetes mellitus,outcome
+1772592,1772593,4193704,Type 2 diabetes mellitus without complication,outcome
+1772592,1772593,45768910,Uncomplicated asthma,outcome
+1772592,1772593,197672,Urinary incontinence,outcome
+1772592,1772593,4088920,Uterus absent,outcome
+1772592,1772593,140641,Verruca vulgaris,outcome
+1772592,1772593,437246,Vitamin B deficiency,outcome
+1772592,1772593,436070,Vitamin D deficiency,outcome
+1772592,1772593,316127,Vitreous opacities,outcome
+1772592,1772593,195603,Vulval and/or perineal noninflammatory disorders,outcome
+1772592,1772594,4305080,Abnormal breathing,outcome
+1772592,1772594,138384,Acquired hypothyroidism,outcome
+1772592,1772594,137951,Acquired keratoderma,outcome
+1772592,1772594,194686,Acquired renal cystic disease,outcome
+1772592,1772594,138825,Actinic keratosis,outcome
+1772592,1772594,257004,Acute exacerbation of chronic obstructive airways disease,outcome
+1772592,1772594,199866,Acute gastritis,outcome
+1772592,1772594,436118,After-cataract with vision obscured,outcome
+1772592,1772594,381295,Age-related cataract,outcome
+1772592,1772594,433753,Alcohol abuse,outcome
+1772592,1772594,435243,Alcohol dependence,outcome
+1772592,1772594,439147,Amnesia,outcome
+1772592,1772594,200528,Ascites,outcome
+1772592,1772594,438409,Attention deficit hyperactivity disorder,outcome
+1772592,1772594,136057,Benign neoplasm of skin of trunk,outcome
+1772592,1772594,198803,Benign prostatic hyperplasia,outcome
+1772592,1772594,443211,Benign prostatic hypertrophy with outflow obstruction,outcome
+1772592,1772594,201072,Benign prostatic hypertrophy without outflow obstruction,outcome
+1772592,1772594,444367,Cholelithiasis without obstruction,outcome
+1772592,1772594,381292,Chronic allergic conjunctivitis,outcome
+1772592,1772594,432738,Chronic fatigue syndrome,outcome
+1772592,1772594,443597,Chronic kidney disease stage 3,outcome
+1772592,1772594,75860,Constipation,outcome
+1772592,1772594,4311591,Cramp in limb,outcome
+1772592,1772594,197610,Cyst of ovary,outcome
+1772592,1772594,433163,Deficiency of macronutrients,outcome
+1772592,1772594,73575,Deformity of toe,outcome
+1772592,1772594,435796,Dehydration,outcome
+1772592,1772594,377910,Deviated nasal septum,outcome
+1772592,1772594,201061,Diaphragmatic hernia,outcome
+1772592,1772594,432730,Difficulty speaking,outcome
+1772592,1772594,74725,Displacement of cervical intervertebral disc without myelopathy,outcome
+1772592,1772594,433316,Dizziness and giddiness,outcome
+1772592,1772594,381877,Dysfunction of eustachian tube,outcome
+1772592,1772594,31317,Dysphagia,outcome
+1772592,1772594,433440,Dysthymia,outcome
+1772592,1772594,137351,Epidermoid cyst of skin,outcome
+1772592,1772594,197381,Epigastric pain,outcome
+1772592,1772594,30753,Esophagitis,outcome
+1772592,1772594,197607,Excessive and frequent menstruation,outcome
+1772592,1772594,72715,Exostosis,outcome
+1772592,1772594,201418,"Flatulence, eructation and gas pain",outcome
+1772592,1772594,196456,Gallstone,outcome
+1772592,1772594,318800,Gastroesophageal reflux disease,outcome
+1772592,1772594,434613,Generalized anxiety disorder,outcome
+1772592,1772594,4168217,Generalized hyperhidrosis,outcome
+1772592,1772594,198400,Hemangioma of skin and subcutaneous tissue,outcome
+1772592,1772594,79864,Hematuria syndrome,outcome
+1772592,1772594,195562,Hemorrhoids,outcome
+1772592,1772594,197911,Hernia of anterior abdominal wall without obstruction AND without gangrene,outcome
+1772592,1772594,433811,Hydronephrosis,outcome
+1772592,1772594,435511,Hypercalcemia,outcome
+1772592,1772594,434610,Hyperkalemia,outcome
+1772592,1772594,133729,Hyperparathyroidism,outcome
+1772592,1772594,4172432,Hyperpigmentation of skin,outcome
+1772592,1772594,141375,Hypertrophic condition of skin,outcome
+1772592,1772594,78474,Hypertrophy of breast,outcome
+1772592,1772594,440129,Hypertrophy of nasal turbinates,outcome
+1772592,1772594,434004,Hypervolemia,outcome
+1772592,1772594,435510,Hypocalcemia,outcome
+1772592,1772594,437833,Hypokalemia,outcome
+1772592,1772594,4098604,Hypomagnesemia,outcome
+1772592,1772594,435515,Hypo-osmolality and or hyponatremia,outcome
+1772592,1772594,436375,Hypovolemia,outcome
+1772592,1772594,375806,Idiopathic peripheral neuropathy,outcome
+1772592,1772594,312950,IgE-mediated allergic asthma,outcome
+1772592,1772594,374375,Impacted cerumen,outcome
+1772592,1772594,4308509,Impaired fasting glycaemia,outcome
+1772592,1772594,76161,Impotence of organic origin,outcome
+1772592,1772594,441417,Incoordination,outcome
+1772592,1772594,40483107,Inflamed seborrheic keratosis,outcome
+1772592,1772594,139099,Ingrowing nail,outcome
+1772592,1772594,436962,Insomnia,outcome
+1772592,1772594,201322,Internal hemorrhoids without complication,outcome
+1772592,1772594,201620,Kidney stone,outcome
+1772592,1772594,198101,Lipoma of skin and subcutaneous tissue,outcome
+1772592,1772594,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+1772592,1772594,4033837,Melanocytic nevus of trunk,outcome
+1772592,1772594,4103703,Melena,outcome
+1772592,1772594,439082,Menopausal syndrome,outcome
+1772592,1772594,436940,Metabolic syndrome X,outcome
+1772592,1772594,72737,Microcalcifications of the breast,outcome
+1772592,1772594,318736,Migraine,outcome
+1772592,1772594,434005,Morbid obesity,outcome
+1772592,1772594,379805,Myopia,outcome
+1772592,1772594,30234,Neck sprain,outcome
+1772592,1772594,376065,Neurological disorder with diabetes type 2,outcome
+1772592,1772594,4209423,Nicotine dependence,outcome
+1772592,1772594,136661,Non-toxic nodular goiter,outcome
+1772592,1772594,437851,Open angle with borderline intraocular pressure,outcome
+1772592,1772594,77139,Open wound of finger without complication,outcome
+1772592,1772594,438120,Opioid dependence,outcome
+1772592,1772594,4211231,Panic disorder without agoraphobia,outcome
+1772592,1772594,321596,Peripheral venous insufficiency,outcome
+1772592,1772594,78162,Peripheral vertigo,outcome
+1772592,1772594,373478,Presbyopia,outcome
+1772592,1772594,4084229,Primary gout,outcome
+1772592,1772594,136184,Pruritus of skin,outcome
+1772592,1772594,261325,Pulmonary emphysema,outcome
+1772592,1772594,432883,"Recurrent major depressive episodes, moderate",outcome
+1772592,1772594,436246,Reduced libido,outcome
+1772592,1772594,443731,Renal disorder due to type 2 diabetes mellitus,outcome
+1772592,1772594,197006,Residual hemorrhoidal skin tags,outcome
+1772592,1772594,73754,Restless legs,outcome
+1772592,1772594,192450,Retention of urine,outcome
+1772592,1772594,136773,Rosacea,outcome
+1772592,1772594,136497,Scar conditions and fibrosis of skin,outcome
+1772592,1772594,141932,Senile hyperkeratosis,outcome
+1772592,1772594,80824,Senile osteoporosis,outcome
+1772592,1772594,4110815,"Sensorineural hearing loss, bilateral",outcome
+1772592,1772594,432284,Single major depressive episode,outcome
+1772592,1772594,313459,Sleep apnea,outcome
+1772592,1772594,4002818,Spasm of back muscles,outcome
+1772592,1772594,81151,Sprain of ankle,outcome
+1772592,1772594,376382,Tension-type headache,outcome
+1772592,1772594,26662,Testicular hypofunction,outcome
+1772592,1772594,377575,Tinnitus,outcome
+1772592,1772594,437264,Tobacco dependence syndrome,outcome
+1772592,1772594,201254,Type 1 diabetes mellitus,outcome
+1772592,1772594,201826,Type 2 diabetes mellitus,outcome
+1772592,1772594,4193704,Type 2 diabetes mellitus without complication,outcome
+1772592,1772594,45768910,Uncomplicated asthma,outcome
+1772592,1772594,197672,Urinary incontinence,outcome
+1772592,1772594,4088920,Uterus absent,outcome
+1772592,1772594,140641,Verruca vulgaris,outcome
+1772592,1772594,437246,Vitamin B deficiency,outcome
+1772592,1772594,436070,Vitamin D deficiency,outcome
+1772592,1772594,316127,Vitreous opacities,outcome
+1772592,1772594,195603,Vulval and/or perineal noninflammatory disorders,outcome
