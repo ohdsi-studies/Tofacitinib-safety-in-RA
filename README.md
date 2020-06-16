@@ -66,8 +66,8 @@ How to run
 2. In `R`, use the following `devtools` command to install the TofacitinibSafetyinRA package:
 
 	```r
-#install.packages("devtools")
-#devtools::install_github("ohdsi-studies/TofacitinibSafetyinRA")
+	install.packages("devtools")
+	devtools::install_github("ohdsi-studies/TofacitinibSafetyinRA")
 	```
 
 *Note: When using this installation method it can be difficult to 'retrace' because you will not see the same folders that you see in the GitHub Repo. If you would prefer to have more visibility into the study contents, you may alternatively download the [TAR file]((https://github.com/ohdsi-studies/TofacitinibSafetyinRA/archive/master.zip) for this repo and bring this into your `R`/`RStudio` environment. An example of how to call ZIP files into your `R` environment can be found in the [The Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/PopulationLevelEstimation.html#running-the-study-package).*
