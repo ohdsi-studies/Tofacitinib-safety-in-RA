@@ -10,7 +10,7 @@
 - Study lead forums tag: **[BridgetWang](https://forums.ohdsi.org/u/BridgetWang)**, **[krfeeney](https://forums.ohdsi.org/u/krfeeney)**
 - Study start date: **May 2, 2018**
 - Study end date: **June 30, 2020**
-- Protocol: **[Final Protocol](https://github.com/ohdsi-studies/TofacitinibSafetyinRA/blob/master/Overall%20Documentation/OHDSI%20F2F%20protocol%20v2.1.docx)** 
+- Protocol: **[Final Protocol](https://github.com/ohdsi-studies/TofacitinibSafetyinRA/blob/master/Overall%20Documentation/OHDSI%20F2F%20protocol%20v2.2.docx)** 
 - Publications: **TBD**
 - Results explorer: **In progress**
 
