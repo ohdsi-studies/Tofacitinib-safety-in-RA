@@ -1,0 +1,9 @@
+atlasId,atlasName,cohortId,name
+291,[TofacitinibSafetyinRA] New users of tofactinib (from RCT definition),291,TofacitinibSafetyinRA_New_users_of_tofactinib_from_RCT_definition
+299,[TofacitinibSafetyinRA] New users of etanercept (from RCT definition),299,TofacitinibSafetyinRA_New_users_of_etanercept_from_RCT_definition
+242,[COVID ID190 V1] Stroke (ischemic or hemorrhagic) events,242,COVID_ID190_V1_Stroke_ischemic_or_hemorrhagic_events
+239,[COVID ID193 V1] Acute myocardial infarction events,239,COVID_ID193_V1_Acute_myocardial_infarction_events
+300,[TofacitinibSafetyinRA] New users of adalimumab (from RCT definition),300,TofacitinibSafetyinRA_New_users_of_adalimumab_from_RCT_definition
+301,[TofacitinibSafetyinRA] New users of tofactinib (RWD definition),301,TofacitinibSafetyinRA_New_users_of_tofactinib_RWD_definition
+303,[TofacitinibSafetyinRA] New users of etanercept (RWD definition),303,TofacitinibSafetyinRA_New_users_of_etanercept_RWD_definition
+304,[TofacitinibSafetyinRA] New users of adalimumab (RWD definition),304,TofacitinibSafetyinRA_New_users_of_adalimumab_RWD_definition

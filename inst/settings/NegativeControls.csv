@@ -1,0 +1,421 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+291,299,4305080,Abnormal breathing,outcome
+291,299,138384,Acquired hypothyroidism,outcome
+291,299,194686,Acquired renal cystic disease,outcome
+291,299,257004,Acute exacerbation of chronic obstructive airways disease,outcome
+291,299,199866,Acute gastritis,outcome
+291,299,436118,After-cataract with vision obscured following extraction of cataract,outcome
+291,299,433753,Alcohol abuse,outcome
+291,299,435243,Alcohol dependence,outcome
+291,299,439147,Amnesia,outcome
+291,299,200528,Ascites,outcome
+291,299,438409,Attention deficit hyperactivity disorder,outcome
+291,299,198803,Benign prostatic hyperplasia,outcome
+291,299,443211,Benign prostatic hypertrophy with outflow obstruction,outcome
+291,299,201072,Benign prostatic hypertrophy without outflow obstruction,outcome
+291,299,444367,Cholelithiasis without obstruction,outcome
+291,299,75860,Constipation,outcome
+291,299,4311591,Cramp in limb,outcome
+291,299,197610,Cyst of ovary,outcome
+291,299,433163,Deficiency of macronutrients,outcome
+291,299,435796,Dehydration,outcome
+291,299,377910,Deviated nasal septum,outcome
+291,299,201061,Diaphragmatic hernia,outcome
+291,299,74725,Displacement of cervical intervertebral disc without myelopathy,outcome
+291,299,433316,Dizziness and giddiness,outcome
+291,299,381877,Dysfunction of eustachian tube,outcome
+291,299,31317,Dysphagia,outcome
+291,299,433440,Dysthymia,outcome
+291,299,137351,Epidermoid cyst of skin,outcome
+291,299,197381,Epigastric pain,outcome
+291,299,30753,Esophagitis,outcome
+291,299,197607,Excessive and frequent menstruation,outcome
+291,299,201418,"Flatulence, eructation and gas pain",outcome
+291,299,196456,Gallstone,outcome
+291,299,318800,Gastroesophageal reflux disease,outcome
+291,299,434613,Generalized anxiety disorder,outcome
+291,299,4168217,Generalized hyperhidrosis,outcome
+291,299,198400,Hemangioma of skin and subcutaneous tissue,outcome
+291,299,79864,Hematuria syndrome,outcome
+291,299,195562,Hemorrhoids,outcome
+291,299,433811,Hydronephrosis,outcome
+291,299,435511,Hypercalcemia,outcome
+291,299,434610,Hyperkalemia,outcome
+291,299,133729,Hyperparathyroidism,outcome
+291,299,4172432,Hyperpigmentation of skin,outcome
+291,299,78474,Hypertrophy of breast,outcome
+291,299,440129,Hypertrophy of nasal turbinates,outcome
+291,299,434004,Hypervolemia,outcome
+291,299,435510,Hypocalcemia,outcome
+291,299,437833,Hypokalemia,outcome
+291,299,4098604,Hypomagnesemia,outcome
+291,299,435515,Hypo-osmolality and or hyponatremia,outcome
+291,299,436375,Hypovolemia,outcome
+291,299,375806,Idiopathic peripheral neuropathy,outcome
+291,299,374375,Impacted cerumen,outcome
+291,299,4308509,Impaired fasting glycemia,outcome
+291,299,76161,Impotence of organic origin,outcome
+291,299,441417,Incoordination,outcome
+291,299,40483107,Inflamed seborrheic keratosis,outcome
+291,299,139099,Ingrowing nail,outcome
+291,299,436962,Insomnia,outcome
+291,299,201322,Internal hemorrhoids without complication,outcome
+291,299,201620,Kidney stone,outcome
+291,299,198101,Lipoma of skin and subcutaneous tissue,outcome
+291,299,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+291,299,4103703,Melena,outcome
+291,299,439082,Menopausal syndrome,outcome
+291,299,436940,Metabolic syndrome X,outcome
+291,299,72737,Microcalcifications of the breast,outcome
+291,299,318736,Migraine,outcome
+291,299,434005,Morbid obesity,outcome
+291,299,379805,Myopia,outcome
+291,299,30234,Neck sprain,outcome
+291,299,4209423,Nicotine dependence,outcome
+291,299,136661,Non-toxic nodular goiter,outcome
+291,299,437851,Open angle with borderline intraocular pressure,outcome
+291,299,77139,Open wound of finger without complication,outcome
+291,299,4211231,Panic disorder without agoraphobia,outcome
+291,299,321596,Peripheral venous insufficiency,outcome
+291,299,78162,Peripheral vertigo,outcome
+291,299,373478,Presbyopia,outcome
+291,299,136184,Pruritus of skin,outcome
+291,299,261325,Pulmonary emphysema,outcome
+291,299,432883,"Recurrent major depressive episodes, moderate",outcome
+291,299,436246,Reduced libido,outcome
+291,299,197006,Residual hemorrhoidal skin tags,outcome
+291,299,73754,Restless legs,outcome
+291,299,192450,Retention of urine,outcome
+291,299,136773,Rosacea,outcome
+291,299,136497,Scar conditions and fibrosis of skin,outcome
+291,299,381295,Senile cataract,outcome
+291,299,141932,Senile hyperkeratosis,outcome
+291,299,4110815,"Sensorineural hearing loss, bilateral",outcome
+291,299,313459,Sleep apnea,outcome
+291,299,4002818,Spasm of back muscles,outcome
+291,299,81151,Sprain of ankle,outcome
+291,299,376382,Tension-type headache,outcome
+291,299,26662,Testicular hypofunction,outcome
+291,299,377575,Tinnitus,outcome
+291,299,437264,Tobacco dependence syndrome,outcome
+291,299,45768910,Uncomplicated asthma,outcome
+291,299,197672,Urinary incontinence,outcome
+291,299,4088920,Uterus absent,outcome
+291,299,437246,Vitamin B deficiency,outcome
+291,299,316127,Vitreous opacities,outcome
+291,299,195603,Vulval and/or perineal noninflammatory disorders,outcome
+291,300,4305080,Abnormal breathing,outcome
+291,300,138384,Acquired hypothyroidism,outcome
+291,300,194686,Acquired renal cystic disease,outcome
+291,300,257004,Acute exacerbation of chronic obstructive airways disease,outcome
+291,300,199866,Acute gastritis,outcome
+291,300,436118,After-cataract with vision obscured following extraction of cataract,outcome
+291,300,433753,Alcohol abuse,outcome
+291,300,435243,Alcohol dependence,outcome
+291,300,439147,Amnesia,outcome
+291,300,200528,Ascites,outcome
+291,300,438409,Attention deficit hyperactivity disorder,outcome
+291,300,198803,Benign prostatic hyperplasia,outcome
+291,300,443211,Benign prostatic hypertrophy with outflow obstruction,outcome
+291,300,201072,Benign prostatic hypertrophy without outflow obstruction,outcome
+291,300,444367,Cholelithiasis without obstruction,outcome
+291,300,75860,Constipation,outcome
+291,300,4311591,Cramp in limb,outcome
+291,300,197610,Cyst of ovary,outcome
+291,300,433163,Deficiency of macronutrients,outcome
+291,300,435796,Dehydration,outcome
+291,300,377910,Deviated nasal septum,outcome
+291,300,201061,Diaphragmatic hernia,outcome
+291,300,74725,Displacement of cervical intervertebral disc without myelopathy,outcome
+291,300,433316,Dizziness and giddiness,outcome
+291,300,381877,Dysfunction of eustachian tube,outcome
+291,300,31317,Dysphagia,outcome
+291,300,433440,Dysthymia,outcome
+291,300,137351,Epidermoid cyst of skin,outcome
+291,300,197381,Epigastric pain,outcome
+291,300,30753,Esophagitis,outcome
+291,300,197607,Excessive and frequent menstruation,outcome
+291,300,201418,"Flatulence, eructation and gas pain",outcome
+291,300,196456,Gallstone,outcome
+291,300,318800,Gastroesophageal reflux disease,outcome
+291,300,434613,Generalized anxiety disorder,outcome
+291,300,4168217,Generalized hyperhidrosis,outcome
+291,300,198400,Hemangioma of skin and subcutaneous tissue,outcome
+291,300,79864,Hematuria syndrome,outcome
+291,300,195562,Hemorrhoids,outcome
+291,300,433811,Hydronephrosis,outcome
+291,300,435511,Hypercalcemia,outcome
+291,300,434610,Hyperkalemia,outcome
+291,300,133729,Hyperparathyroidism,outcome
+291,300,4172432,Hyperpigmentation of skin,outcome
+291,300,78474,Hypertrophy of breast,outcome
+291,300,440129,Hypertrophy of nasal turbinates,outcome
+291,300,434004,Hypervolemia,outcome
+291,300,435510,Hypocalcemia,outcome
+291,300,437833,Hypokalemia,outcome
+291,300,4098604,Hypomagnesemia,outcome
+291,300,435515,Hypo-osmolality and or hyponatremia,outcome
+291,300,436375,Hypovolemia,outcome
+291,300,375806,Idiopathic peripheral neuropathy,outcome
+291,300,374375,Impacted cerumen,outcome
+291,300,4308509,Impaired fasting glycemia,outcome
+291,300,76161,Impotence of organic origin,outcome
+291,300,441417,Incoordination,outcome
+291,300,40483107,Inflamed seborrheic keratosis,outcome
+291,300,139099,Ingrowing nail,outcome
+291,300,436962,Insomnia,outcome
+291,300,201322,Internal hemorrhoids without complication,outcome
+291,300,201620,Kidney stone,outcome
+291,300,198101,Lipoma of skin and subcutaneous tissue,outcome
+291,300,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+291,300,4103703,Melena,outcome
+291,300,439082,Menopausal syndrome,outcome
+291,300,436940,Metabolic syndrome X,outcome
+291,300,72737,Microcalcifications of the breast,outcome
+291,300,318736,Migraine,outcome
+291,300,434005,Morbid obesity,outcome
+291,300,379805,Myopia,outcome
+291,300,30234,Neck sprain,outcome
+291,300,4209423,Nicotine dependence,outcome
+291,300,136661,Non-toxic nodular goiter,outcome
+291,300,437851,Open angle with borderline intraocular pressure,outcome
+291,300,77139,Open wound of finger without complication,outcome
+291,300,4211231,Panic disorder without agoraphobia,outcome
+291,300,321596,Peripheral venous insufficiency,outcome
+291,300,78162,Peripheral vertigo,outcome
+291,300,373478,Presbyopia,outcome
+291,300,136184,Pruritus of skin,outcome
+291,300,261325,Pulmonary emphysema,outcome
+291,300,432883,"Recurrent major depressive episodes, moderate",outcome
+291,300,436246,Reduced libido,outcome
+291,300,197006,Residual hemorrhoidal skin tags,outcome
+291,300,73754,Restless legs,outcome
+291,300,192450,Retention of urine,outcome
+291,300,136773,Rosacea,outcome
+291,300,136497,Scar conditions and fibrosis of skin,outcome
+291,300,381295,Senile cataract,outcome
+291,300,141932,Senile hyperkeratosis,outcome
+291,300,4110815,"Sensorineural hearing loss, bilateral",outcome
+291,300,313459,Sleep apnea,outcome
+291,300,4002818,Spasm of back muscles,outcome
+291,300,81151,Sprain of ankle,outcome
+291,300,376382,Tension-type headache,outcome
+291,300,26662,Testicular hypofunction,outcome
+291,300,377575,Tinnitus,outcome
+291,300,437264,Tobacco dependence syndrome,outcome
+291,300,45768910,Uncomplicated asthma,outcome
+291,300,197672,Urinary incontinence,outcome
+291,300,4088920,Uterus absent,outcome
+291,300,437246,Vitamin B deficiency,outcome
+291,300,316127,Vitreous opacities,outcome
+291,300,195603,Vulval and/or perineal noninflammatory disorders,outcome
+301,303,4305080,Abnormal breathing,outcome
+301,303,138384,Acquired hypothyroidism,outcome
+301,303,194686,Acquired renal cystic disease,outcome
+301,303,257004,Acute exacerbation of chronic obstructive airways disease,outcome
+301,303,199866,Acute gastritis,outcome
+301,303,436118,After-cataract with vision obscured following extraction of cataract,outcome
+301,303,433753,Alcohol abuse,outcome
+301,303,435243,Alcohol dependence,outcome
+301,303,439147,Amnesia,outcome
+301,303,200528,Ascites,outcome
+301,303,438409,Attention deficit hyperactivity disorder,outcome
+301,303,198803,Benign prostatic hyperplasia,outcome
+301,303,443211,Benign prostatic hypertrophy with outflow obstruction,outcome
+301,303,201072,Benign prostatic hypertrophy without outflow obstruction,outcome
+301,303,444367,Cholelithiasis without obstruction,outcome
+301,303,75860,Constipation,outcome
+301,303,4311591,Cramp in limb,outcome
+301,303,197610,Cyst of ovary,outcome
+301,303,433163,Deficiency of macronutrients,outcome
+301,303,435796,Dehydration,outcome
+301,303,377910,Deviated nasal septum,outcome
+301,303,201061,Diaphragmatic hernia,outcome
+301,303,74725,Displacement of cervical intervertebral disc without myelopathy,outcome
+301,303,433316,Dizziness and giddiness,outcome
+301,303,381877,Dysfunction of eustachian tube,outcome
+301,303,31317,Dysphagia,outcome
+301,303,433440,Dysthymia,outcome
+301,303,137351,Epidermoid cyst of skin,outcome
+301,303,197381,Epigastric pain,outcome
+301,303,30753,Esophagitis,outcome
+301,303,197607,Excessive and frequent menstruation,outcome
+301,303,201418,"Flatulence, eructation and gas pain",outcome
+301,303,196456,Gallstone,outcome
+301,303,318800,Gastroesophageal reflux disease,outcome
+301,303,434613,Generalized anxiety disorder,outcome
+301,303,4168217,Generalized hyperhidrosis,outcome
+301,303,198400,Hemangioma of skin and subcutaneous tissue,outcome
+301,303,79864,Hematuria syndrome,outcome
+301,303,195562,Hemorrhoids,outcome
+301,303,433811,Hydronephrosis,outcome
+301,303,435511,Hypercalcemia,outcome
+301,303,434610,Hyperkalemia,outcome
+301,303,133729,Hyperparathyroidism,outcome
+301,303,4172432,Hyperpigmentation of skin,outcome
+301,303,78474,Hypertrophy of breast,outcome
+301,303,440129,Hypertrophy of nasal turbinates,outcome
+301,303,434004,Hypervolemia,outcome
+301,303,435510,Hypocalcemia,outcome
+301,303,437833,Hypokalemia,outcome
+301,303,4098604,Hypomagnesemia,outcome
+301,303,435515,Hypo-osmolality and or hyponatremia,outcome
+301,303,436375,Hypovolemia,outcome
+301,303,375806,Idiopathic peripheral neuropathy,outcome
+301,303,374375,Impacted cerumen,outcome
+301,303,4308509,Impaired fasting glycemia,outcome
+301,303,76161,Impotence of organic origin,outcome
+301,303,441417,Incoordination,outcome
+301,303,40483107,Inflamed seborrheic keratosis,outcome
+301,303,139099,Ingrowing nail,outcome
+301,303,436962,Insomnia,outcome
+301,303,201322,Internal hemorrhoids without complication,outcome
+301,303,201620,Kidney stone,outcome
+301,303,198101,Lipoma of skin and subcutaneous tissue,outcome
+301,303,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+301,303,4103703,Melena,outcome
+301,303,439082,Menopausal syndrome,outcome
+301,303,436940,Metabolic syndrome X,outcome
+301,303,72737,Microcalcifications of the breast,outcome
+301,303,318736,Migraine,outcome
+301,303,434005,Morbid obesity,outcome
+301,303,379805,Myopia,outcome
+301,303,30234,Neck sprain,outcome
+301,303,4209423,Nicotine dependence,outcome
+301,303,136661,Non-toxic nodular goiter,outcome
+301,303,437851,Open angle with borderline intraocular pressure,outcome
+301,303,77139,Open wound of finger without complication,outcome
+301,303,4211231,Panic disorder without agoraphobia,outcome
+301,303,321596,Peripheral venous insufficiency,outcome
+301,303,78162,Peripheral vertigo,outcome
+301,303,373478,Presbyopia,outcome
+301,303,136184,Pruritus of skin,outcome
+301,303,261325,Pulmonary emphysema,outcome
+301,303,432883,"Recurrent major depressive episodes, moderate",outcome
+301,303,436246,Reduced libido,outcome
+301,303,197006,Residual hemorrhoidal skin tags,outcome
+301,303,73754,Restless legs,outcome
+301,303,192450,Retention of urine,outcome
+301,303,136773,Rosacea,outcome
+301,303,136497,Scar conditions and fibrosis of skin,outcome
+301,303,381295,Senile cataract,outcome
+301,303,141932,Senile hyperkeratosis,outcome
+301,303,4110815,"Sensorineural hearing loss, bilateral",outcome
+301,303,313459,Sleep apnea,outcome
+301,303,4002818,Spasm of back muscles,outcome
+301,303,81151,Sprain of ankle,outcome
+301,303,376382,Tension-type headache,outcome
+301,303,26662,Testicular hypofunction,outcome
+301,303,377575,Tinnitus,outcome
+301,303,437264,Tobacco dependence syndrome,outcome
+301,303,45768910,Uncomplicated asthma,outcome
+301,303,197672,Urinary incontinence,outcome
+301,303,4088920,Uterus absent,outcome
+301,303,437246,Vitamin B deficiency,outcome
+301,303,316127,Vitreous opacities,outcome
+301,303,195603,Vulval and/or perineal noninflammatory disorders,outcome
+301,304,4305080,Abnormal breathing,outcome
+301,304,138384,Acquired hypothyroidism,outcome
+301,304,194686,Acquired renal cystic disease,outcome
+301,304,257004,Acute exacerbation of chronic obstructive airways disease,outcome
+301,304,199866,Acute gastritis,outcome
+301,304,436118,After-cataract with vision obscured following extraction of cataract,outcome
+301,304,433753,Alcohol abuse,outcome
+301,304,435243,Alcohol dependence,outcome
+301,304,439147,Amnesia,outcome
+301,304,200528,Ascites,outcome
+301,304,438409,Attention deficit hyperactivity disorder,outcome
+301,304,198803,Benign prostatic hyperplasia,outcome
+301,304,443211,Benign prostatic hypertrophy with outflow obstruction,outcome
+301,304,201072,Benign prostatic hypertrophy without outflow obstruction,outcome
+301,304,444367,Cholelithiasis without obstruction,outcome
+301,304,75860,Constipation,outcome
+301,304,4311591,Cramp in limb,outcome
+301,304,197610,Cyst of ovary,outcome
+301,304,433163,Deficiency of macronutrients,outcome
+301,304,435796,Dehydration,outcome
+301,304,377910,Deviated nasal septum,outcome
+301,304,201061,Diaphragmatic hernia,outcome
+301,304,74725,Displacement of cervical intervertebral disc without myelopathy,outcome
+301,304,433316,Dizziness and giddiness,outcome
+301,304,381877,Dysfunction of eustachian tube,outcome
+301,304,31317,Dysphagia,outcome
+301,304,433440,Dysthymia,outcome
+301,304,137351,Epidermoid cyst of skin,outcome
+301,304,197381,Epigastric pain,outcome
+301,304,30753,Esophagitis,outcome
+301,304,197607,Excessive and frequent menstruation,outcome
+301,304,201418,"Flatulence, eructation and gas pain",outcome
+301,304,196456,Gallstone,outcome
+301,304,318800,Gastroesophageal reflux disease,outcome
+301,304,434613,Generalized anxiety disorder,outcome
+301,304,4168217,Generalized hyperhidrosis,outcome
+301,304,198400,Hemangioma of skin and subcutaneous tissue,outcome
+301,304,79864,Hematuria syndrome,outcome
+301,304,195562,Hemorrhoids,outcome
+301,304,433811,Hydronephrosis,outcome
+301,304,435511,Hypercalcemia,outcome
+301,304,434610,Hyperkalemia,outcome
+301,304,133729,Hyperparathyroidism,outcome
+301,304,4172432,Hyperpigmentation of skin,outcome
+301,304,78474,Hypertrophy of breast,outcome
+301,304,440129,Hypertrophy of nasal turbinates,outcome
+301,304,434004,Hypervolemia,outcome
+301,304,435510,Hypocalcemia,outcome
+301,304,437833,Hypokalemia,outcome
+301,304,4098604,Hypomagnesemia,outcome
+301,304,435515,Hypo-osmolality and or hyponatremia,outcome
+301,304,436375,Hypovolemia,outcome
+301,304,375806,Idiopathic peripheral neuropathy,outcome
+301,304,374375,Impacted cerumen,outcome
+301,304,4308509,Impaired fasting glycemia,outcome
+301,304,76161,Impotence of organic origin,outcome
+301,304,441417,Incoordination,outcome
+301,304,40483107,Inflamed seborrheic keratosis,outcome
+301,304,139099,Ingrowing nail,outcome
+301,304,436962,Insomnia,outcome
+301,304,201322,Internal hemorrhoids without complication,outcome
+301,304,201620,Kidney stone,outcome
+301,304,198101,Lipoma of skin and subcutaneous tissue,outcome
+301,304,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+301,304,4103703,Melena,outcome
+301,304,439082,Menopausal syndrome,outcome
+301,304,436940,Metabolic syndrome X,outcome
+301,304,72737,Microcalcifications of the breast,outcome
+301,304,318736,Migraine,outcome
+301,304,434005,Morbid obesity,outcome
+301,304,379805,Myopia,outcome
+301,304,30234,Neck sprain,outcome
+301,304,4209423,Nicotine dependence,outcome
+301,304,136661,Non-toxic nodular goiter,outcome
+301,304,437851,Open angle with borderline intraocular pressure,outcome
+301,304,77139,Open wound of finger without complication,outcome
+301,304,4211231,Panic disorder without agoraphobia,outcome
+301,304,321596,Peripheral venous insufficiency,outcome
+301,304,78162,Peripheral vertigo,outcome
+301,304,373478,Presbyopia,outcome
+301,304,136184,Pruritus of skin,outcome
+301,304,261325,Pulmonary emphysema,outcome
+301,304,432883,"Recurrent major depressive episodes, moderate",outcome
+301,304,436246,Reduced libido,outcome
+301,304,197006,Residual hemorrhoidal skin tags,outcome
+301,304,73754,Restless legs,outcome
+301,304,192450,Retention of urine,outcome
+301,304,136773,Rosacea,outcome
+301,304,136497,Scar conditions and fibrosis of skin,outcome
+301,304,381295,Senile cataract,outcome
+301,304,141932,Senile hyperkeratosis,outcome
+301,304,4110815,"Sensorineural hearing loss, bilateral",outcome
+301,304,313459,Sleep apnea,outcome
+301,304,4002818,Spasm of back muscles,outcome
+301,304,81151,Sprain of ankle,outcome
+301,304,376382,Tension-type headache,outcome
+301,304,26662,Testicular hypofunction,outcome
+301,304,377575,Tinnitus,outcome
+301,304,437264,Tobacco dependence syndrome,outcome
+301,304,45768910,Uncomplicated asthma,outcome
+301,304,197672,Urinary incontinence,outcome
+301,304,4088920,Uterus absent,outcome
+301,304,437246,Vitamin B deficiency,outcome
+301,304,316127,Vitreous opacities,outcome
+301,304,195603,Vulval and/or perineal noninflammatory disorders,outcome

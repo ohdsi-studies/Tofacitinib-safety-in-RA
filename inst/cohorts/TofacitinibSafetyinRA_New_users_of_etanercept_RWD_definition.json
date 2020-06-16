@@ -1,0 +1,865 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4297650,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "402431009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cutaneous atrophy due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4334806,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "433228003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Deformity of foot due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273442,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "96531000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Deformity of hand due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2107572,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3476F",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Disease prognosis for rheumatoid arthritis assessed, good prognosis documented (RA)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2107561,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3475F",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Disease prognosis for rheumatoid arthritis assessed, poor prognosis documented (RA)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058299,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "161567008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "H/O: rheumatoid arthritis",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4107913,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193250002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myopathy due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2108721,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4195F",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Patient receiving first-time biologic disease modifying anti-rheumatic drug therapy for rheumatoid arthritis (RA)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4102493,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193180002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Polyneuropathy in rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80809,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "69896004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2107560,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3472F",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Rheumatoid arthritis (RA) disease activity, high (RA)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2107558,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3470F",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Rheumatoid arthritis (RA) disease activity, low (RA)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2107559,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3471F",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Rheumatoid arthritis (RA) disease activity, moderate (RA)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4083556,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239792003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Seronegative rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4035611,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "239791005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Seropositive rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Rheumatoid arthritis",
+      "id": 23
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 75614,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "200976008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acrodermatitis continua",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437082,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9631008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ankylosing spondylitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4116142,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201727001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthropathy in ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269889,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1085911000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Complication due to Crohn's disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273477,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092851000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Complication due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 201606,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34000006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Crohn's disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273369,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "72181000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Endocarditis due to systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269952,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092861000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fistula of intestine due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4241223,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "59393003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hidradenitis suppurativa",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269999,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "112561000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of Crohns disease",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46274082,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092871000119107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intestinal obstruction due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4259507,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "410502007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Juvenile idiopathic arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4105005,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193101001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple cranial nerve palsies in sarcoidosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 140168,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9014002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Psoriasis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81931,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "33339001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Psoriasis with arthropathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273478,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092881000119105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rectal hemorrhage due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4145240,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "307755009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Renal tubulo-interstitial disorder in systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4262578,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "361197009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Sarcoid arthropathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45772123,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "352941000119102",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Sarcoid iridocyclitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438688,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31541009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Sarcoidosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 257628,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "55464009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81893,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64766004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028363,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128473001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Uveitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "indications for biologic DMARDs except RA",
+      "id": 30
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 1151789,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "214555",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "Etanercept",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Ingredient",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "etanercept",
+      "id": 31
+    }
+  ],
+  "EndStrategy": {"CustomEra": {
+    "DrugCodesetId": 31,
+    "GapDays": 90,
+    "Offset": 90
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "AdditionalCriteria": {
+    "CriteriaList": [{
+      "RestrictVisit": false,
+      "StartWindow": {
+        "UseEventEnd": false,
+        "Start": {
+          "Days": 90,
+          "Coeff": -1
+        },
+        "End": {
+          "Days": 30,
+          "Coeff": 1
+        },
+        "UseIndexEnd": false
+      },
+      "IgnoreObservationPeriod": false,
+      "EndWindow": null,
+      "Criteria": {"ConditionOccurrence": {
+        "OccurrenceEndDate": null,
+        "CorrelatedCriteria": null,
+        "ConditionTypeExclude": false,
+        "CodesetId": 30,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "ConditionType": null,
+        "ConditionSourceConcept": null,
+        "StopReason": null,
+        "Age": null
+      }},
+      "Occurrence": {
+        "Type": 0,
+        "IsDistinct": false,
+        "Count": 0
+      }
+    }],
+    "Type": "ALL",
+    "DemographicCriteriaList": [],
+    "Groups": [{
+      "CriteriaList": [
+        {
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 30,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 30,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 23,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        },
+        {
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 30,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 30,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"Observation": {
+            "ValueAsConcept": null,
+            "ObservationType": null,
+            "CorrelatedCriteria": null,
+            "ObservationTypeExclude": false,
+            "ValueAsString": null,
+            "CodesetId": 23,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "Unit": null,
+            "ObservationSourceConcept": null,
+            "VisitType": null,
+            "ValueAsNumber": null,
+            "Qualifier": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }
+      ],
+      "Type": "ANY",
+      "DemographicCriteriaList": [],
+      "Groups": [],
+      "Count": null
+    }],
+    "Count": null
+  },
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"DrugExposure": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "DrugSourceConcept": null,
+      "CodesetId": 31,
+      "DrugTypeExclude": false,
+      "Quantity": null,
+      "DrugType": null,
+      "ProviderSpecialty": null,
+      "EffectiveDrugDose": null,
+      "Gender": null,
+      "DaysSupply": null,
+      "DoseUnit": null,
+      "VisitType": null,
+      "Refills": null,
+      "First": true,
+      "OccurrenceStartDate": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": "2013-01-01"
+      },
+      "RouteConcept": null,
+      "StopReason": null,
+      "LotNumber": null,
+      "Age": {
+        "Op": "gt",
+        "Extent": null,
+        "Value": 18
+      }
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 365
+    }
+  }
+}
