@@ -63,6 +63,15 @@ How to run
 	install_github("ohdsi/DatabaseConnector", ref = "v2.4.1", INSTALL_opts = '--no-lock')
 	```
 	
+	Note: `library(ParallelLogger)` in v1.1.1 is not compatible with all versions of `library(ggplot)`. You will need to adjust your versioning to a compatible version:
+	
+	```r
+	library(devtools)
+	install_version("ggplot2", version = "3.2.0", repos = "http://cran.us.r-project.org",  INSTALL_opts = '--no-lock')
+	```
+
+Without this fix, you will get errors when `runDiagnostics = TRUE` related to [NAs in the data frame (e.g. "possible only for atomic and list types")](https://github.com/ohdsi-studies/TofacitinibSafetyinRA/issues/4).
+
 2. In `R`, use the following `devtools` command to install the TofacitinibSafetyinRA package:
 
 	```r
